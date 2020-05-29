@@ -1,0 +1,91 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: "calibri";
+}
+
+body{
+	background: url(GLOL3019.jpg);
+	background-size: 1400px;
+}
+
+header{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: #b53f3f;
+	color: #ffffff;
+	text-align: center;
+}
+
+form{
+	font-size: 30px;
+	font-weight: bold;
+	color: #ffffff;
+	margin-top: 120px;
+	margin-left: 100px;
+}
+
+form input, select{
+	height: 40px;
+	width: 250px;
+	font-size: 20px;
+	padding-left: 8px;
+	margin-left: 10px;
+	border: 2px solid #b53f3f;
+	border-radius: 8px;
+	margin-bottom: 2px;
+}
+
+.submit{
+	margin-top: 10px;
+	height: 50px;
+	width: 100px;
+	background-color: #b53f3f;
+	border-radius: 8px;
+	cursor: pointer;
+}
+
+.id, .lama{
+	width: 238px;
+}
+
+.jam{
+	position: absolute;
+	left: 400px;
+}
+
+.total{
+	position: absolute;
+	top: 250px;
+	right: 250px;
+	color: #ffffff;
+	font-size: 30px;
+	text-align: center;
+	padding: 10px;
+}
+
+.total input{
+	height: 60px;
+	width: 350px;
+	font-size: 40px;
+	text-align: center;
+	background-color: #ffffff;
+	border: 4px solid #b53f3f;
+	border-radius: 10px;
+}
+
+.lama{
+	width: 60px;
+}
+
+footer{
+	background: #b53f3f;
+	padding-top: 20px;
+	padding-left: 20px;
+	color: #ffffff;
+	text-align: center;
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+
+}
